@@ -1,5 +1,7 @@
 # Shooting Method for Boundary Value Problems
 
+**Report (PDF):** [Zenodo DOI]  
+**Code Repository:** [[GitHub link](https://github.com/jacekschmidt/Shooting_Method/edit/main/README.md)]
 ## Project Overview
 
 This project investigates the **shooting method** for solving boundary value problems (BVPs) arising from ordinary differential equations (ODEs). The shooting method converts a BVP into an initial value problem (IVP) by guessing unknown initial conditions and iteratively refining them to satisfy boundary constraints.
