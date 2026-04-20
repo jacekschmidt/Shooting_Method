@@ -1,6 +1,6 @@
 # Shooting Method for Boundary Value Problems
 
-**Report (PDF):** [Zenodo DOI]  
+**Report (PDF):** [[Zenodo DOI](https://doi.org/10.5281/zenodo.19671223)]  
 **Code Repository:** [[GitHub link](https://github.com/jacekschmidt/Shooting_Method/edit/main/README.md)]
 ## Project Overview
 
